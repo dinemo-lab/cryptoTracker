@@ -86,3 +86,5 @@ tailwindcss: Utility-first CSS framework
 The application uses a custom mock WebSocket service to simulate real-time data. In a production environment, you would replace this with a connection to a real cryptocurrency API like CoinGecko, Binance, or CoinCap.
 Price changes are randomly generated but follow realistic patterns to simulate market volatility.
 The app is optimized for performance with Redux selectors to prevent unnecessary re-renders.
+
+Demo Video link :https://www.loom.com/share/16c06cd5e52d461a823f5cb48d577068?sid=65772e6c-bbdd-4a19-b328-66e55b6ed9f9
